@@ -1,1 +1,4 @@
 com\repartition\MainApp.class
+com\repartition\fonction_Utiles\JpaUtil.class
+com\repartition\models\Grade.class
+com\repartition\models\Enseignant.class

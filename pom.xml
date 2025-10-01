@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.repartition</groupId>
-  <artifactId>repartition.eu</artifactId>
+  <artifactId>repartitionUE</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>courseManager</name>
   <description>Application pour répartir les heures de cours entre les enseignants.</description>
